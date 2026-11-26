@@ -69,5 +69,21 @@ SET starts my Kali Linux Webserver on port 80, with the fake Google account logi
 
 <img width="778" height="122" alt="image" src="https://github.com/user-attachments/assets/7f7952e6-6dd2-45e8-8e96-c7f09b1b4efe" />
 
+In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address), the fake Google page is displayed. The victim can enter the username and password
+## OUTPUT
+<img width="537" height="398" alt="Screenshot 2026-11-26 111902" src="https://github.com/user-attachments/assets/894948fd-b123-4312-b12f-8b9f3d9c5aa4" />
+
+
+
+SET logs the information regarding the Google credentials:
+## OUTPUT
+
+<img width="773" height="342" alt="image" src="https://github.com/user-attachments/assets/d7a3983c-ab07-452f-8de4-9e35ab84254d" />
+
+
+SET logs the information in the xml file under /root/.set directory:
+## OUTPUT
+
+<img width="835" height="363" alt="image" src="https://github.com/user-attachments/assets/999179cd-6c7d-4def-85c5-13499f7cae3a" />
 
 
